@@ -1,0 +1,31 @@
+{
+  "name": "React_Empty",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "*",
+    "browserify": "*",
+    "flux": "*",
+    "gulp": "*",
+    "gulp-concat": "*",
+    "gulp-connect": "*",
+    "gulp-eslint": "*",
+    "gulp-open": "*",
+    "history": "^1.17.0",
+    "jquery": "*",
+    "lodash": "*",
+    "object-assign": "*",
+    "react": "*",
+    "react-router": "*",
+    "reactify": "*",
+    "toastr": "*",
+    "vinyl-source-stream": "*"
+  }
+}
